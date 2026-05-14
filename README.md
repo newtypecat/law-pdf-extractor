@@ -114,8 +114,7 @@ I am a Japan-based IT consultant with a background that bridges **public adminis
   - Municipal taxation (地方税務) — assessment, collection, and dispute resolution
   - Legal affairs and ordinance drafting
   - Administrative procedures and citizen services
-- Certified Public Accountant (CPA) candidate with expertise in financial accounting and tax law
-- Currently working as an **IT consultant**, applying domain knowledge in law and finance to build practical automation tools
+  - Currently working as an **IT consultant**, applying domain knowledge in law and finance to build practical automation tools
 
 ### Why This Project
 
